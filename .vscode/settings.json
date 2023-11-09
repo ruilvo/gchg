@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "CMakeLists.txt": "cmake",
+    "*.cmake": "cmake",
+    "*.cmake.in": "cmake",
+    ".clangd": "yaml",
+    ".clang-tidy": "yaml",
+    ".clazy": "yaml"
+  },
+  "cmake.buildDirectory": "${workspaceRoot}/_build/${buildType}/",
+  "cmake.configureSettings": {
+    "GCHG_DEVELOPER_MODE": "ON"
+  }
+}

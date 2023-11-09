@@ -1,0 +1,11 @@
+{
+  "__SPDX-LICENSE-IDENTIFIER__": "CC0-1.0",
+  "__SPDX-FileCopyrightText__": "2023 Rui Oliveira <ruimail24@gmail.com>",
+  "format": {
+    "line_width": 100,
+    "tab_size": 2
+  },
+  "markup": {
+    "enable_markup": false
+  }
+}
